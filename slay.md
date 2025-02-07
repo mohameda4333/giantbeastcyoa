@@ -1,4 +1,4 @@
-### Slay
+## Slay
 
 YOU'VE SLAYED THE BEAST.
 

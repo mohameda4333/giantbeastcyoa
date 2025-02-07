@@ -1,4 +1,4 @@
-### Stick
+## Stick
 
 The “rock” moved and it turned out a giant beast woke up from the sound
 

@@ -1,4 +1,4 @@
-### Sword
+## Sword
 
 The Beast swings at you, but since you were ready, you’ve dodged his hit.
 

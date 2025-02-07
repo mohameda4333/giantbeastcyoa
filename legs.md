@@ -1,4 +1,4 @@
-### Legs
+## Legs
 
 You successfully cut one leg, but the beast throws his hand at you.
 
