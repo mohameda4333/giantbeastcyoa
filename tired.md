@@ -1,4 +1,4 @@
-### Tired
+## Tired
 
 You are tired. You enter an abandoned forest and see a rock.
 

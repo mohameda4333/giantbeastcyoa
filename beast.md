@@ -1,4 +1,4 @@
-### Beast
+## Beast
 
 The rock that you sleep on ends up moving so you get up and see a beast.
 

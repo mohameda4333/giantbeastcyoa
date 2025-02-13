@@ -1,4 +1,4 @@
-### Attack
+## Attack
 
 You were able to successfully wound the Beast with your attack.
 
